@@ -19,8 +19,6 @@ This project introduces Type-Test, a Python-based game designed to enhance your 
 4. Once you finish typing, the game will display your WPM and accuracy scores.
 5. You can choose to replay with a new sentence or end the practice session.
 
-**[Consider adding an animated GIF or screenshot here to visually showcase the game in action.]**
-
 ## Benefits
 
 * Improve typing speed and accuracy, leading to increased efficiency in everyday tasks.
